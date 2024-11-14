@@ -1,8 +1,15 @@
 [![Header](https://github.com/FurStrot/FurStrot/blob/main/assets/header.jpg)](https://www.youtube.com/@FurStrot)
 
-## I am a novice programmer who is passionate about his work.
+<div align="center">
+## Hello👋 My name Strot!
+
+[![YouTube](https://shields.microej.com/badge/YouTube-000000?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/@FurStrot)
+
+[![Telegram](https://shields.microej.com/badge/Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=ffffff)](https://t.me/FurStrot)
 
 ⏳ Year progress { ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 23.68 %
+
+### About me
 
 
 ### Tools
@@ -23,3 +30,6 @@
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=FurStrot&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=FurStrot&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
