@@ -3,16 +3,17 @@
 <div align="center">
 
 ## Hello👋 My name Strot!
+ㅤ
 
 [![YouTube](https://shields.microej.com/badge/YouTube-000000?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/@FurStrot)
 [![Telegram](https://shields.microej.com/badge/Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=ffffff)](https://t.me/FurStrot)
 
 ##### ⏳ Year progress { ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 23.68 %
+ㅤ
 
 ## About me
 
 ##### I strive for interesting solutions for automating work processes using programming. I know programming languages: Python, HTML5 and CSS3.At the moment, I'm focusing on developing bots.I also have experience working with Adobe, which allows me to create an attractive interface and improve the user experience.
-
 ## Tools
 
 ![Pyhton](https://shields.microej.com/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=ffffff)
