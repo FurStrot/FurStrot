@@ -15,3 +15,10 @@ Latest YouTube Videos
 ### Follow Me
 [![YouTube](https://shields.microej.com/badge/YouTube-000000?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/@FurStrot)
 [![Telegram](https://shields.microej.com/badge/Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=ffffff)](https://t.me/FurStrot)
+
+### Languages
+![English](https://shields.microej.com/badge/English-000000?style=for-the-badge&logo=🇺🇸)
+![Russia](https://shields.microej.com/badge/Russia-000000?style=for-the-badge&logo=ru)
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=FurStrot&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
