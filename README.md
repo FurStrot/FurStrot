@@ -13,3 +13,5 @@ Latest YouTube Videos
 ![ADOBE](https://shields.microej.com/badge/Adobe-000000?style=for-the-badge&logo=ADOBE&logoColor=ffffff)
 
 ### Follow Me
+[![YouTube](https://shields.microej.com/badge/YouTube-000000?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/@FurStrot)
+[![Telegram](https://shields.microej.com/badge/Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=ffffff)](https://t.me/FurStrot)
