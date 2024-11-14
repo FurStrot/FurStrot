@@ -2,7 +2,8 @@
 
 ## I am a novice programmer who is passionate about his work.
 
-Latest YouTube Videos
+⏳ Year progress { ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 23.68 %
+
 
 ### Tools
 
