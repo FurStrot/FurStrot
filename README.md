@@ -3,13 +3,11 @@
 <div align="center">
 
 ## Hello👋 My name Strot!
-ㅤ
 
 [![YouTube](https://shields.microej.com/badge/YouTube-000000?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/@FurStrot)
 [![Telegram](https://shields.microej.com/badge/Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=ffffff)](https://t.me/FurStrot)
-
 ##### ⏳ Year progress { ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 23.68 %
-ㅤ
+
 
 ## About me
 
@@ -37,8 +35,8 @@
 
 <div align="center">
 
-## ㅤ
-#### ㅤ
+## 
+#### ㅤ 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=FurStrot&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 </div>
