@@ -1,4 +1,4 @@
-Header
+[![Header](https://github.com/FurStrot/FurStrot/blob/main/assets/header.jpg)](https://www.youtube.com/@FurStrot)
 
 About me
 
