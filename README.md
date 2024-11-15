@@ -40,7 +40,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurStrot&repo=Bot_911\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/FurStrot/Bot_911)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurStrot&repo=Bot_Helper\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/FurStrot/Bot_Helper)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurStrot&repo=Bot_Censor\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/FurStrot/Bot_Censor)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurStrot&repo=Bot_Censorship\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/FurStrot/Bot_Censorship)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurStrot&repo=text_edit_py_qt\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/FurStrot/text_edit_py_qt)
 
 ㅤ
