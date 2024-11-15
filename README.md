@@ -14,11 +14,11 @@
 ##### I strive for interesting solutions for automating work processes using programming. I know programming languages: Python, HTML5 and CSS3.At the moment, I'm focusing on developing bots.I also have experience working with Adobe, which allows me to create an attractive interface and improve the user experience.
 ## Tools
 
-![Pyhton](https://shields.microej.com/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=ffffff)
-![HTML](https://shields.microej.com/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://shields.microej.com/badge/CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=ffffff)
-![GIT](https://shields.microej.com/badge/GIT-000000?style=for-the-badge&logo=GIT&logoColor=ffffff)
-![ADOBE](https://shields.microej.com/badge/Adobe-000000?style=for-the-badge&logo=ADOBE&logoColor=ffffff)
+[![Pyhton](https://shields.microej.com/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=ffffff)](https://www.python.org)
+[![HTML5](https://shields.microej.com/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=ffffff)](https://html.spec.whatwg.org/multipage/)
+[![CSS3](https://shields.microej.com/badge/CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=ffffff)](https://www.w3.org/TR/CSS/#css)
+[![GIT](https://shields.microej.com/badge/GIT-000000?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com)
+[![ADOBE](https://shields.microej.com/badge/Adobe-000000?style=for-the-badge&logo=ADOBE&logoColor=ffffff)](https://www.adobe.com/us/#)
 
 ## Follow Me
 [![YouTube](https://shields.microej.com/badge/YouTube-000000?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/@FurStrot)
@@ -26,8 +26,8 @@
 
 ## Languages
 
-![English](https://shields.microej.com/badge/English-000000?style=for-the-badge&logo=🇺🇸)
-![Russia](https://shields.microej.com/badge/Russia-000000?style=for-the-badge&logo=ru)
+[![English](https://shields.microej.com/badge/English-000000?style=for-the-badge&logo=🇺🇸)](https://en.wikipedia.org/wiki/English_language)
+[![Russia](https://shields.microej.com/badge/Russia-000000?style=for-the-badge&logo=ru)](https://ru.wikipedia.org/wiki/Русский_язык)
 
 </div>
 
