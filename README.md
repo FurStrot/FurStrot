@@ -4,7 +4,7 @@
 
 ## Hello👋 My name Strot!
 
-##### ⏳ Year progress { ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 23.68 %
+##### ⏳ Year progress { ████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 25.88 %
 
 [![YouTube](https://shields.microej.com/badge/YouTube-000000?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/@FurStrot)
 [![Telegram](https://shields.microej.com/badge/Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=ffffff)](https://t.me/FurStrot)
@@ -54,7 +54,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"/>
 </picture>
 
 
