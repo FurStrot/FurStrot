@@ -4,7 +4,7 @@
 
 ## Hello👋 My name Strot!
 
-##### ⏳ Year progress { ████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 25.88 %
+##### ⏳ Year progress { ████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 26.21 %
 
 [![YouTube](https://shields.microej.com/badge/YouTube-000000?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/@FurStrot)
 [![Telegram](https://shields.microej.com/badge/Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=ffffff)](https://t.me/FurStrot)
@@ -41,7 +41,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurStrot&repo=911_Bot-Telegram-\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/FurStrot/911_Bot-Telegram-)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurStrot&repo=Bot_Helper\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/FurStrot/Bot_Helper)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurStrot&repo=Bot_Censorship\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/FurStrot/Bot_Censorship)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurStrot&repo=text_edit_py_qt\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/FurStrot/text_edit_py_qt)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FurStrot&repo=Police-Helper\&title_color=fff\&icon_color=f9f9f9\&text_color=9f9f9f\&bg_color=151515)](https://github.com/FurStrot/Police-Helper)
 
 ㅤ
 
