@@ -4,10 +4,7 @@
 
 ## Hello👋 My name Strot!
 
-##### ⏳ Year progress { ████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 26.21 %
-
-[![YouTube](https://shields.microej.com/badge/YouTube-000000?style=for-the-badge&logo=YouTube&logoColor=ffffff)](https://www.youtube.com/@FurStrot)
-[![Telegram](https://shields.microej.com/badge/Telegram-000000?style=for-the-badge&logo=Telegram&logoColor=ffffff)](https://t.me/FurStrot)
+##### ⏳ Year progress { ████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 26.48 %
 
 ## About me
 
